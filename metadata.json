@@ -1,0 +1,6 @@
+{
+  "name": "EduSupervision Pro - ระบบนิเทศการศึกษาออนไลน์",
+  "description": "ระบบนิเทศการศึกษาออนไลน์แบบเรียลไทม์ ประเมินผลการจัดการเรียนรู้ ออกเกียรติบัตรอัตโนมัติ แดชบอร์ดสรุปผลเชิงวิเคราะห์สำหรับผู้บริหาร และแจ้งเตือนผ่าน LINE Notify",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
